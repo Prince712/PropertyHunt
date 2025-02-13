@@ -1,50 +1,113 @@
-# Welcome to your Expo app 👋
+## 📌 **Property Hunt - A Full-Stack Real Estate App** 🏡  
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Property Hunt is a modern, full-stack real estate app built with **Expo** and **TypeScript**, featuring authentication, a dynamic UI, and seamless backend integration with **Appwrite**.  
 
-## Get started
+### ✨ **Features**
+✅ **Google Authentication** with Appwrite  
+✅ **Dynamic Routing** with Expo Router  
+✅ **Modern UI** powered by **Tailwind CSS**  
+✅ **Database & Storage** with **Appwrite**  
+✅ **Property Search & Listings**  
+✅ **Optimized Performance** with TypeScript  
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## 🚀 **Tech Stack & Tools**
+| **Technology**  | **Usage** |
+|----------------|----------|
+| **Expo** | React Native framework for mobile development |
+| **React Native** | UI development for Android & iOS |
+| **TypeScript** | Type safety and improved development experience |
+| **Appwrite** | Backend for authentication, database, and storage |
+| **Google Authentication** | Secure login |
+| **Expo Router** | File-based routing for navigation |
+| **Tailwind CSS** | Modern styling with utility-first approach |
 
-2. Start the app
+---
 
-   ```bash
-    npx expo start
-   ```
+## 📸 **App Screenshots**  
 
-In the output, you'll find options to open the app in a
+### **🏡 Home & Listings**
+<img src="assets/images/Propertyhunt_1.jpeg" width="300"/> <img src="assets/images/Propertyhunt_2.jpeg" width="300"/>  
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+### **🔎 Search & Filters**
+<img src="assets/images/Propertyhunt_3.jpeg" width="300"/> <img src="assets/images/Propertyhunt_4.jpeg" width="300"/>  
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### **📍 Property Details**
+<img src="assets/images/Propertyhunt_5.jpeg" width="300"/> <img src="assets/images/Propertyhunt_6.jpeg" width="300"/>  
 
-## Get a fresh project
+### **🛒 Favorites & Profile**
+<img src="assets/images/Propertyhunt_7.jpeg" width="300"/> <img src="assets/images/Propertyhunt_8.jpeg" width="300"/>  
 
-When you're ready, run:
+### **🔐 Authentication & Login**
+<img src="assets/images/Propertyhunt_9.jpeg" width="300"/> <img src="assets/images/Propertyhunt_10.jpeg" width="300"/>  
 
-```bash
-npm run reset-project
+---
+
+## 🛠 **Getting Started**
+### **1⃣ Clone the Repository**
+```sh
+git clone https://github.com/your-username/property-hunt.git
+cd property-hunt
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### **2⃣ Install Dependencies**
+```sh
+npm install
+```
 
-## Learn more
+### **3⃣ Configure Appwrite**
+Create a **`.env`** file and add your **Appwrite API keys**:
+```sh
+APPWRITE_ENDPOINT=your-appwrite-url
+APPWRITE_PROJECT_ID=your-project-id
+APPWRITE_DATABASE_ID=your-database-id
+APPWRITE_COLLECTION_ID=your-collection-id
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+### **4⃣ Run the App**
+```sh
+npx expo start
+```
+Scan the QR code to run the app on your device using **Expo Go** or an emulator.
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+---
 
-## Join the community
+## 💪 **Project Structure**
+```
+📂 property-hunt
+ └▷ app
+   ├▷ screens  # All app screens
+   ├▷ components  # Reusable UI components
+   ├▷ assets/images  # App images & icons
+   ├▷ services  # API and backend logic (Appwrite)
+   ├▷ tailwind.config.js  # Tailwind CSS config
+   └▷ tsconfig.json  # TypeScript config
+```
 
-Join our community of developers creating universal apps.
+---
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## 🎯 **Future Enhancements**
+- 🌟 **Dark Mode** support  
+- 📍 **Map Integration** for property locations  
+- 🏡 **User Listings** (Post & Sell Properties)  
+- 🔔 **Push Notifications**  
+
+---
+
+## 🎉 **Contributing**
+1. **Fork** the repository  
+2. Create a **new branch** (`feature/my-feature`)  
+3. **Commit** your changes (`git commit -m "Added new feature"`)  
+4. **Push** to your branch (`git push origin feature/my-feature`)  
+5. Create a **Pull Request** 🚀  
+
+---
+
+## 🔗 **Connect with Me**
+📧 Email: [prince.dabekar7@gmail.com](mailto:prince.dabekar7@gmail.com)  
+📎 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+🌍 Portfolio: [your-portfolio.com](https://your-portfolio.com)  
+
+---
+
