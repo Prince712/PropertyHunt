@@ -28,27 +28,25 @@ Property Hunt is a modern, full-stack real estate app built with **Expo** and **
 ## 📸 **App Screenshots**  
 
 ### **🏡 Home & Listings**
-<img src="assets/images/Propertyhunt_1.jpeg" width="300"/> <img src="assets/images/Propertyhunt_2.jpeg" width="300"/>  
+<img src="assets/images/Propertyhunt_2.jpeg" width="300"/>  <img src="assets/images/Propertyhunt_3.jpeg" width="300"/> <img src="assets/images/Propertyhunt_4.jpeg" width="300"/>
 
 ### **🔎 Search & Filters**
-<img src="assets/images/Propertyhunt_3.jpeg" width="300"/> <img src="assets/images/Propertyhunt_4.jpeg" width="300"/>  
+<img src="assets/images/Propertyhunt_5.jpeg" width="300"/> <img src="assets/images/Propertyhunt_6.jpeg" width="300"/>
+<img src="assets/images/Propertyhunt_7.jpeg" width="300"/>  
 
 ### **📍 Property Details**
-<img src="assets/images/Propertyhunt_5.jpeg" width="300"/> <img src="assets/images/Propertyhunt_6.jpeg" width="300"/>  
-
-### **🛒 Favorites & Profile**
-<img src="assets/images/Propertyhunt_7.jpeg" width="300"/> <img src="assets/images/Propertyhunt_8.jpeg" width="300"/>  
+<img src="assets/images/Propertyhunt_8.jpeg" width="300"/> <img src="assets/images/Propertyhunt_9.jpeg" width="300"/>
 
 ### **🔐 Authentication & Login**
-<img src="assets/images/Propertyhunt_9.jpeg" width="300"/> <img src="assets/images/Propertyhunt_10.jpeg" width="300"/>  
+ <img src="assets/images/Propertyhunt_1.jpeg" width="300"/> <img src="assets/images/Propertyhunt_10.jpeg" width="300"/>  
 
 ---
 
 ## 🛠 **Getting Started**
 ### **1⃣ Clone the Repository**
 ```sh
-git clone https://github.com/your-username/property-hunt.git
-cd property-hunt
+git clone https://github.com/Prince712/PropertyHunt.git
+cd PropertyHunt
 ```
 
 ### **2⃣ Install Dependencies**
@@ -57,12 +55,15 @@ npm install
 ```
 
 ### **3⃣ Configure Appwrite**
-Create a **`.env`** file and add your **Appwrite API keys**:
+Create a **`.env.local`** file and add your **Appwrite API keys**:
 ```sh
-APPWRITE_ENDPOINT=your-appwrite-url
-APPWRITE_PROJECT_ID=your-project-id
-APPWRITE_DATABASE_ID=your-database-id
-APPWRITE_COLLECTION_ID=your-collection-id
+EXPO_PUBLIC_APPWRITE_PROJECT_ID
+EXPO_PUBLIC_APPWRITE_ENDPOINT =https://cloud.appwrite.io/v1
+EXPO_PUBLIC_APPWRITE_DATABASE_ID 
+EXPO_PUBLIC_APPWRITE_AGENTS_COLLECTION_ID 
+EXPO_PUBLIC_APPWRITE_GALLARIES_COLLECTION_ID 
+EXPO_PUBLIC_APPWRITE_REVIEWS_COLLECTION_ID 
+EXPO_PUBLIC_APPWRITE_PROPERTIES_COLLECTION_ID
 ```
 
 ### **4⃣ Run the App**
@@ -70,28 +71,6 @@ APPWRITE_COLLECTION_ID=your-collection-id
 npx expo start
 ```
 Scan the QR code to run the app on your device using **Expo Go** or an emulator.
-
----
-
-## 💪 **Project Structure**
-```
-📂 property-hunt
- └▷ app
-   ├▷ screens  # All app screens
-   ├▷ components  # Reusable UI components
-   ├▷ assets/images  # App images & icons
-   ├▷ services  # API and backend logic (Appwrite)
-   ├▷ tailwind.config.js  # Tailwind CSS config
-   └▷ tsconfig.json  # TypeScript config
-```
-
----
-
-## 🎯 **Future Enhancements**
-- 🌟 **Dark Mode** support  
-- 📍 **Map Integration** for property locations  
-- 🏡 **User Listings** (Post & Sell Properties)  
-- 🔔 **Push Notifications**  
 
 ---
 
@@ -106,8 +85,7 @@ Scan the QR code to run the app on your device using **Expo Go** or an emulator.
 
 ## 🔗 **Connect with Me**
 📧 Email: [prince.dabekar7@gmail.com](mailto:prince.dabekar7@gmail.com)  
-📎 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-🌍 Portfolio: [your-portfolio.com](https://your-portfolio.com)  
+📎 LinkedIn: [Pravin Dabekar](https://www.linkedin.com/in/pravin-dabekar-467b98b2/)   
 
 ---
 
