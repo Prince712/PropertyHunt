@@ -28,17 +28,17 @@ Property Hunt is a modern, full-stack real estate app built with **Expo** and **
 ## 📸 **App Screenshots**  
 
 ### **🏡 Home & Listings**
-<img src="assets/images/Propertyhunt_2.jpeg" width="300"/>  <img src="assets/images/Propertyhunt_3.jpeg" width="300"/> <img src="assets/images/Propertyhunt_4.jpeg" width="300"/>
+<img src="assets/images/Propertyhunt_2.jpeg" width="250"/>  <img src="assets/images/Propertyhunt_3.jpeg" width="250"/> <img src="assets/images/Propertyhunt_4.jpeg" width="250"/>
 
 ### **🔎 Search & Filters**
-<img src="assets/images/Propertyhunt_5.jpeg" width="300"/> <img src="assets/images/Propertyhunt_6.jpeg" width="300"/>
-<img src="assets/images/Propertyhunt_7.jpeg" width="300"/>  
+<img src="assets/images/Propertyhunt_5.jpeg" width="250"/> <img src="assets/images/Propertyhunt_6.jpeg" width="250"/>
+<img src="assets/images/Propertyhunt_7.jpeg" width="250"/>  
 
 ### **📍 Property Details**
-<img src="assets/images/Propertyhunt_8.jpeg" width="300"/> <img src="assets/images/Propertyhunt_9.jpeg" width="300"/>
+<img src="assets/images/Propertyhunt_8.jpeg" width="250"/> <img src="assets/images/Propertyhunt_9.jpeg" width="250"/>
 
 ### **🔐 Authentication & Login**
- <img src="assets/images/Propertyhunt_1.jpeg" width="300"/> <img src="assets/images/Propertyhunt_10.jpeg" width="300"/>  
+ <img src="assets/images/Propertyhunt_1.jpeg" width="250"/> <img src="assets/images/Propertyhunt_10.jpeg" width="250"/>  
 
 ---
 
